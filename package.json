@@ -1,0 +1,28 @@
+{
+  "name": "falcobot",
+  "version": "1.0.0",
+  "description": "Falcodrin Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fossilz/falcobot.git"
+  },
+  "keywords": [
+    "falcodrin",
+    "discord",
+    "bot"
+  ],
+  "author": "Tyler Fossilz Thinjon100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fossilz/falcobot/issues"
+  },
+  "homepage": "https://github.com/fossilz/falcobot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
