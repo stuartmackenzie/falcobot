@@ -30,7 +30,9 @@
   "homepage": "https://github.com/fossilz/falcobot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "sqlite": "^4.0.19",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
